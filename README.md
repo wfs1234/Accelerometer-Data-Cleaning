@@ -4,6 +4,12 @@ from 30 subjects who performed six tasks: walking, walking up stairs, walking do
 
 There are 180 observations and 82 columns. The two key columns are "Test_Subject" and "activity". There's also a column that labels the activity values. The other values are summarized as an average of their original value.
 
+# R - Based Data Cleaning
+
+The R script in this repo will clean and format the data linked below. It assumes you've already unzipped the data, and requires
+some slight modification to run on your machine. The working directory has to be set to where you unzipped the file linked below.
+
+Example output from this code is also included in thise repo.
 
 # Links to External Data
 
